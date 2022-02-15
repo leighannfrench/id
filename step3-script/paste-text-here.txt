@@ -1,13 +1,18 @@
 This will be my tagline:
+Physical Therapist Assistant turn front-End web developer 
 
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
+Leigh Ann French is pursuing an Associate in Science Degree in Multimedia Technologies with a concentration in Web Design and Development from Pittsburgh Technical College. She also has an Associate in Science Degree in Physical Therapist Assistant (Mercyhurst University 2012) and a Bachelor of Science degree in Biology (Edinboro University 2009). 
+She worked as a Physical Therapist Assistant for nine years and felt she could better help people’s lives by improving their web presence through web design and development. Leigh believes technology is the future, and communication online is essential. She hopes to channel that philosophy into her work, working as part of a team to develop websites that help clients get their messages out.
+The objective of this site is to showcase pieces Leigh Ann has worked on during her time at Pittsburgh Technical College, showing diverse pieces with her ability to learn and adapt to new technologies. Learning and education is lifelong process, and Leigh Ann hopes to continue learning and growing when in the workforce.
+
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site: Yoga on the River
+Talent Showcased: WordPress, PHP, style with CSS and html
+Objective: e commerce website selling yoga accessories and educating users about yoga
+Target Audience: adults who exercise, do yoga and want to learn about yoga 
 Highlights: 
-1)
-2)
-3)
+1)e commerce page users can purchase a variety of yoga accessories
+2)yoga blog to educate user on yoga
+3)users have the ability to resistor and leave comments to interact with the website
