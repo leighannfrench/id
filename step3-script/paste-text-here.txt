@@ -7,10 +7,14 @@ Leigh Ann French is pursuing an Associate in Science Degree in Multimedia Techno
 She worked as a Physical Therapist Assistant for nine years and felt she could better help people’s lives by improving their web presence through web design and development. Leigh believes technology is the future, and communication online is essential. She hopes to channel that philosophy into her work, working as part of a team to develop websites that help clients get their messages out.
 The objective of this site is to showcase pieces Leigh Ann has worked on during her time at Pittsburgh Technical College, showing diverse pieces with her ability to learn and adapt to new technologies. Learning and education is lifelong process, and Leigh Ann hopes to continue learning and growing when in the workforce.
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: This project used WordPress with a custom theme. The technologies used in this project include WordPress, PHP, HTML, CSS, and several WordPress plug-ins. The website itself is an e-commerce website with blog posts to educate users about yoga. 
+
 Title & Type of Site: Yoga on the River
-Talent Showcased: WordPress, PHP, style with CSS and html
-Objective: e commerce website selling yoga accessories and educating users about yoga
+
+Talent Showcased: WordPress, PHP, style with CSS and HTML along with WordPress plug-ins
+
+Objective: e-commerce website selling yoga accessories and educating users about yoga
+
 Target Audience: adults who exercise, do yoga and want to learn about yoga 
 Highlights: 
 1)e commerce page users can purchase a variety of yoga accessories
