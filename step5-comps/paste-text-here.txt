@@ -1,1 +1,11 @@
 Paste all the body copy from your style comps here:
+Tag line - Leigh Ann French is a Front-End Web Developer with a background in the medical field who dared to explore her unknown to create unique websites. 
+Tag line 2- Hello, my name is Leigh and I make awesome things for the web.
+
+Intro 
+
+As a Front-End Web Developer, Leigh Ann French finds joy in creating things for the web. Many of the websites she designed and developed are listed below. See <a href =”#”>My Work</a> section. She has an Associate in Science Degree in Multimedia Technologies with a concentration in Web Design and Development (Pittsburgh Technical College 2022). 
+ 
+Leigh Ann French believes life is a journey and not a destination, which is evident in her extensive background. Her educational journey includes a Bachelor of Science degree in Biology (Edinboro University 2009), and an Associate in Science Degree in Physical Therapist Assistant (Mercyhurst University 2012).  
+
+On this site you will see Leigh Ann's best work, projects tackling a variety of topics and utilizing an assortment of technologies, demonstrating her ability to learn and adapt to new technologies at the frontier of web design and development. Learning is a lifelong process in which Leigh Ann thrives. 
